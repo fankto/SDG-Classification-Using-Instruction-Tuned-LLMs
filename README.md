@@ -15,7 +15,7 @@ This repository contains the code accompanying the paper "Quantized Instruction-
 ## Installation
 ```bash
 git clone https://github.com/TobiFank/SDG-Classification-Using-Instruction-Tuned-LLMs.git
-cd SDG\ Classification\ Using\ Instruction-Tuned\ LLMs
+cd SDG-Classification-Using-Instruction-Tuned-LLMs
 ```
 
 This project uses [Poetry](https://python-poetry.org/) for dependency management. Ensure you have Poetry installed, then run the following commands to set up the environment:
