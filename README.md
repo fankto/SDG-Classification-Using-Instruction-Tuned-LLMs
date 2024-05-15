@@ -14,7 +14,7 @@ This repository contains the code accompanying the paper "Quantized Instruction-
 
 ## Installation
 ```bash
-git clone 
+git clone https://github.com/TobiFank/SDG-Classification-Using-Instruction-Tuned-LLMs.git
 cd SDG\ Classification\ Using\ Instruction-Tuned\ LLMs
 ```
 
